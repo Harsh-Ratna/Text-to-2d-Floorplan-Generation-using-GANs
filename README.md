@@ -19,6 +19,8 @@ The Discriminator used Convolutional layers to learn spatial patterns in the ima
 <a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/discriminator_logic_diagram.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/discriminator_logic_diagram.png?raw=true" height="400" /></a>
 
 ## Output from Text prompt
+We ask user for a text prompt which accurately describes the floorplan with the layout and size desized by the user. Then it is converted to text embeddings using BERT to feed into the model and the generator returns the generated image based on the text description provided by the user.
+
 <a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/output%20images/text_prompt.jpg?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/output%20images/text_prompt.jpg?raw=true" height="400" /></a>
 
 ## Future Work

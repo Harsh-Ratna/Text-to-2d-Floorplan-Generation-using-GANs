@@ -9,6 +9,7 @@ It contains almost 4000 human annotated floorplan images with its natural langua
 
 ## Intuition and Methodology
 <a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/Archi_gan_simple.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/Archi_gan_simple.png?raw=true" height="200" /></a>
+
 Archi-GANs is a simple yet effective GAN model which  combines the properties of Conditional Gans (CGANs) and Deep Convolutional Gans (DCGans). It uses text embeddings in the generator as extra condition and upsamples it using 2d Transpose convolutional layers (or fractional convolutional layers) and generates a synthetic image.
 The Discriminator used Convolutional layers to learn spatial patterns in the image to distinguish it between real and fake.
 

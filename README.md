@@ -8,5 +8,5 @@ A subset of this dataset: Tell2Design (https://github.com/LengSicong/Tell2Design
 It contains almost 4000 human annotated floorplan images with its natural language descriptions 5-6 sentences long and specifying the position of rooms, the dimensions and the overall layout.
 
 ## Intuition and Methodology
-<a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/Archi_gan_simple.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/Archi_gan_simple.png?raw=true" height="100" /></a>
+<a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/Archi_gan_simple.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/Archi_gan_simple.png?raw=true" height="200" /></a>
 

@@ -13,6 +13,9 @@ It contains almost 4000 human annotated floorplan images with its natural langua
 Archi-GANs is a simple yet effective GAN model which  combines the properties of Conditional Gans (CGANs) and Deep Convolutional Gans (DCGans). It uses text embeddings in the generator as extra condition and upsamples it using 2d Transpose convolutional layers (or fractional convolutional layers) and generates a synthetic image.
 The Discriminator used Convolutional layers to learn spatial patterns in the image to distinguish it between real and fake data.
 
-<a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/generator_logic_diagram.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/generator_logic_diagram.png?raw=true" height="400" /></a><a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/discriminator_logic_diagram.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/discriminator_logic_diagram.png?raw=true" height="400" /></a>
+### Generator
+<a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/generator_logic_diagram.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/generator_logic_diagram.png?raw=true" height="400" /></a>
+### Discriminator
+<a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/discriminator_logic_diagram.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/discriminator_logic_diagram.png?raw=true" height="400" /></a>
 
 ## Future Work

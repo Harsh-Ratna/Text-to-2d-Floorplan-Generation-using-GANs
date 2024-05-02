@@ -14,7 +14,6 @@ Archi-GANs is a simple yet effective GAN model which  combines the properties of
 The Discriminator used Convolutional layers to learn spatial patterns in the image to distinguish it between real and fake data.
 
 <a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/generator_logic_diagram.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/generator_logic_diagram.png?raw=true" height="400" /></a>
-
 <a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/discriminator_logic_diagram.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/diagrams/discriminator_logic_diagram.png?raw=true" height="400" /></a>
 
 ## Future Work

@@ -8,7 +8,7 @@ Generating 2d Floorplan images from text prompt using a custom GAN Model (Archi-
 A subset of this dataset: [Tell2Design](https://github.com/LengSicong/Tell2Design) has been used to implement our project. 
 It contains almost 4000 human annotated floorplan images with its natural language descriptions 5-6 sentences long and specifying the position of rooms, the dimensions and the overall layout.
 
-<a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/Dataset/floorplan_image_with_text_description.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/Dataset/floorplan_image_with_text_description.png?raw=true" height="200" /></a>
+<a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/Dataset/floorplan_image_with_text_description.png?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/Dataset/floorplan_image_with_text_description.png?raw=true" height="400" /></a>
 
 
 ## Intuition and Methodology

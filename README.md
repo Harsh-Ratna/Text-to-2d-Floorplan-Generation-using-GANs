@@ -24,3 +24,4 @@ We ask user for a text prompt which accurately describes the floorplan with the 
 <a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/output%20images/text_prompt.jpg?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/output%20images/text_prompt.jpg?raw=true" height="400" /></a>
 
 ## Future Work
+We will apply 3D gans to generate the wall structure for the 2D plan and generate an actual structure of a home which can be used for 3D visualisation of the house and its structural design.
